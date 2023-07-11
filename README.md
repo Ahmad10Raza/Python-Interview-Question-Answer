@@ -1,4 +1,5 @@
 # Python Interview Questions and Answers
+![Image](https://github.com/Ahmad10Raza/Statistics-Interview-Questions-Answers/blob/master/Answers-to-the-Most-Common-Interview-Questions-With-Examples.png)
 
 Welcome to the Python Interview Questions and Answers repository! This repository is a collection of frequently asked Python interview questions, along with detailed answers and explanations. Whether you're preparing for a job interview or just want to brush up on your Python knowledge, this resource aims to help you gain a deeper understanding of Python concepts and improve your interview performance.
 
@@ -43,8 +44,6 @@ Contributions to this repository are welcome! If you have additional interview q
 
 The questions and answers provided in this repository are meant for educational purposes and as a reference for interview preparation. They do not guarantee success in any specific interview and should be used as a supplemental resource alongside other study materials.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE).
 
 ---
